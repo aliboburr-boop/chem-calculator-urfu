@@ -1,0 +1,7 @@
+streamlit
+rdkit
+streamlit-ketcher-editor
+openclatura
+py3Dmol
+stmol
+Pillow
